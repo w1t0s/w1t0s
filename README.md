@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @w1t0s
 - 👀 I’m interested in offensive security
-- 🌱 I’m currently learning for OSCP cert.
+- 🌱 I’m currently learning for offensive security cert.
 
 <!---
 w1t0s/w1t0s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
